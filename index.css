@@ -1,0 +1,9 @@
+#container{
+    border: 2px solid black;
+    width: 500px;
+    padding: 20px;
+}
+
+#Cabecera{
+    background-color: blue;
+}
